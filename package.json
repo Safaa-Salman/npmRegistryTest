@@ -1,0 +1,22 @@
+{
+  "name": "npm-registry-test-webdev",
+  "version": "1.0.0",
+  "description": "first npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Safaa-Salman/npmRegistryTest.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Safaa Salman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Safaa-Salman/npmRegistryTest/issues"
+  },
+  "homepage": "https://github.com/Safaa-Salman/npmRegistryTest#readme"
+}
