@@ -1,5 +1,5 @@
 function isChocolateCake(string) {
-    return string === 'Chocolate Cake'
+  return string === "Chocolate Cake";
 }
 
-export default isChocolateCake
+module.exports = isChocolateCake;
